@@ -7,8 +7,6 @@ published: true
 
 Some information about you!
 
-<img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background." width="30%" height="30%">
-
 <html>
 <head>
 <title>Website Title</title>
