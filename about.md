@@ -17,8 +17,7 @@ Some information about you!
 #container {height: 100%; width:100%; font-size: 0;}
 #left, #middle, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
 #left {width: 25%; background: blue;}
-#middle {width: 50%; background: green;}
-#right {width: 25%; background: yellow;}
+#right {width: 75%; background: yellow;}
 </style>
 </head>
 <body>
