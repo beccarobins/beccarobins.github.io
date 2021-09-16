@@ -16,14 +16,14 @@ Some information about you!
 * {margin: 0; padding: 0;}
 #container {height: 100%; width:100%; font-size: 0;}
 #left, #middle, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
-#left {width: 25%; background: blue;}
-#right {width: 75%; background: yellow;}
+#left {width: 25%;}
+#right {width: 75%;}
 </style>
 </head>
 <body>
 <div id="container">
     <div id="left">
-      <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background." width="30%" height="30%">
+      <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
   </div>
     <div id="right">Right Side Menu</div>
 </div>
