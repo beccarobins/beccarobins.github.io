@@ -7,9 +7,7 @@ published: true
 
 Some information about you!
 
-![Photograph of Becca's lovely face with the Empire State Building in the background.](https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg)
-
-<img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Girl in a jacket" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background." width="30%" height="30%">
 
 ### More Information
 
