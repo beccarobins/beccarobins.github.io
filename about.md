@@ -23,7 +23,7 @@ Introducing Becca Robins...
     <div id="left">
       <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
   </div>
-    <div id="right">This will be written in first person because it's going to be informal and colloquial.</div>
+    <div id="right" style="font-family:verdana">This will be written in first person because it's going to be informal and colloquial.</div>
 </div>
 </body>
 </html>
