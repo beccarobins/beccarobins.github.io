@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+Introducing Becca Robins...
 
 <html>
 <head>
