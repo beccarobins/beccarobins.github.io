@@ -14,7 +14,7 @@ Introducing Becca Robins...
 * {margin: 0; padding: 0;}
 #container {height: 100%; width:100%; font-size: 0;}
 #left, #middle, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
-#left {width: 20%;}
+#left {width: 20%; margin: 5px}
 #right {width: 70%;}
 </style>
 </head>
