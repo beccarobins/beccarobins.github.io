@@ -14,8 +14,8 @@ Introducing Becca Robins...
 * {margin: 0; padding: 0;}
 #container {height: 100%; width:100%; font-size: 0;}
 #left, #middle, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
-#left {width: 25%;}
-#right {width: 75%;}
+#left {width: 25%; margin: 5%}
+#right {width: 75%; margin: 5%}
 </style>
 </head>
 <body>
@@ -23,7 +23,7 @@ Introducing Becca Robins...
     <div id="left">
       <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
   </div>
-    <div id="right">Right Side Menu</div>
+    <div id="right">This will be written in first person because it's going to be informal and colloquial.</div>
 </div>
 </body>
 </html>
