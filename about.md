@@ -34,7 +34,7 @@ Some information about you!
 
 ### More Information
 
-Check out [my portfolio](beccarobins.com)!
+Check out [my portfolio](www.beccarobins.com)!
 
 ### Contact me
 
