@@ -1,11 +1,9 @@
 ---
 layout: page
-title: ''
+title: Introducing myself...
 permalink: /about/
 published: true
 ---
-
-Introducing myself...
 
 <html>
 <head>
