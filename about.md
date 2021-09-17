@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Introducing Becca Robins...
+Introducing myself...
 
 <html>
 <head>
@@ -30,7 +30,7 @@ img {border-radius: 15px;}
 
 ### More Information
 
-Check out [my portfolio](www.beccarobins.com)!
+If you're interested in checking out my _work_ work, check out [my portfolio](www.beccarobins.com)!
 
 ### Contact me
 
