@@ -2,7 +2,7 @@
 layout: page
 title: Introducing myself...
 permalink: /about/
-published: false
+published: true
 ---
 
 <html>
@@ -28,8 +28,7 @@ img {border-radius: 15px;}
 
 ### More Information
 
-If you're interested in checking out my _work_ work, check out <a href="www.beccarobins.com">my portfolio</a>!
-
+If you're interested in checking out my _work_ work, check out [my portfolio](https://www.beccarobins.com)!
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
