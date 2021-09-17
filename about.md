@@ -21,14 +21,14 @@ img {border-radius: 15px;}
     <div id="left">
       <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
   </div>
-    <div id="right"> Hello there. I'm Becca Robins,  I would describe myself as a 65-year-old man trapped in the body of a 35-year old woman<br> <br> <strong>Fun fact</strong>: Just a few months after this photo was taken, I started my tech content journey on the 77th floor of the Empire State Building.</div>
+    <div id="right"> Hello there.<br> <br> <strong>Fun fact</strong>: Just a few months after this photo was taken, I started my tech content journey on the 77th floor of the Empire State Building.</div>
 </div>
 </body>
 </html>
 
 ### More Information
 
-If you're interested in checking out my _work_ work, check out [my portfolio](https://www.beccarobins.com)!
+If you're interested in checking out my _work_ work, check out [my portfolio](https://www.beccarobins.com){:target="_blank"}!
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
