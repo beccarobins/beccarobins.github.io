@@ -21,7 +21,7 @@ img {border-radius: 15px;}
     <div id="left">
       <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
   </div>
-    <div id="right"> Hello there.<br> <br> <strong>Fun fact</strong>: Just a few months after this photo was taken, I started my tech content journey on the 77th floor of the Empire State Building.</div>
+    <div id="right"> Hello there, my name is Becca and I work in tech. I spend my days shipping content and my nights consuming it. <br> <br> <strong>Fun fact</strong>: Just a few months after this photo was taken, I started my tech content journey on the 77th floor of the Empire State Building.</div>
 </div>
 </body>
 </html>
