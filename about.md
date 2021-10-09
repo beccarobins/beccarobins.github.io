@@ -29,6 +29,3 @@ img {border-radius: 15px;}
 ### More Information
 
 If you're interested in checking out my _work_ work, check out [my portfolio](https://www.beccarobins.com){:target="_blank"}!
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
