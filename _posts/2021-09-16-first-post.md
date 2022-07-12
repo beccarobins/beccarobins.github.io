@@ -1,10 +1,32 @@
 ---
 layout: post
-title: Welcome...
+title: Welcome...finally
 published: true
 ---
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+I've need my ass kicked for awhile now. I set out to post this first blog 10 months ago. And no, I haven't been too busy...I've been doing all the things I shouldn't. Letting perfect be the enemy of good, paralysis by analysis, and all those very cheesy, but very apt sayings that boil down to one thing: **getting in your own way**. 
 
-For someone in tech, I'm a bit of a luddite. I mean, I'm starting a blog in 2021...I grew up when _LiveJoural_ was a just becoming big for fuck sake. I decided to finally bite the bullet and begin writing things down because I realized I finally have a point-of-view. I've had many opinions (some _terrible_) but now that I'm climbing up the figurative hill, I feel I finally have direction.
+For someone in tech, I'm a bit of a luddite. I mean, I'm starting a blog in ~~2021~~ 2022...I grew up when LiveJoural was a _just_ becoming big for f\*ck sake. I've decided to finally bite the bullet and begin writing things down because I realized I do actually have a point-of-view. I've had many opinions (some _terrible_) but now that I'm climbing up that figurative hill of life (or running, as Summer 2022 will have us remember), I feel I _finally_ have direction.
+
+So what should you expect from this weekly (oh god, that's not going to happen), monthly blog series. It's going to be all about content&mdash;sort of. It's going to be about _creating_ content, but not the content itself. What does this mean? I **won't** talk about the ideal number of words for your blog post or SEO (that's not my bag baby), but I will talk about how you can leverage technical tools to your advantage, how you can "appropriate" (techinical appropriation, not cultural appropriation) from other fields to make your content better, and I will talk (a hell of a lot, probably) about content operations process improvements because I'm damn good at it.
+
+In case that didn't entice you, you'll also get some great (and totally unrelated) cat content, like these two rascals below.
+
+<html>
+<head>
+<style type="text/css">
+* {margin: 0; padding: 0;}
+#container {height: 100%; width:100%; font-size: 0;}
+#left, #middle, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
+#left {width: 25%; margin-right: 10px; border-radius: 15px;}
+#right {width: 70%; font-family:"helvetica"; margin-top: 5px; font-size: 18px;}
+img {border-radius: 15px;}
+</style>
+</head>
+<body>
+<div id="container">
+    <div id="middle">
+      <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/double-trouble.jpg" alt="Photograph of Becca's two cats: Oscar and Mick sitting together on a perch in front of a window, looking back at the camera.">
+</div>
+</body>
+</html>
