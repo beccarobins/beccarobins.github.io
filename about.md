@@ -22,7 +22,7 @@ img {border-radius: 15px;}
       <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
   </div>
     <div id="right"> Hello there, my name is Becca and I work in tech. I spend my days shipping content (and content tools) and my nights consuming it. For the last five years, I've built content at one of the fastest growing startups in North America and one of the largest corporations in the world. Prior to that I was a neuroscientist (and not producing much content at all). Boy have things changed.<br> <br>     
-    <strong>Fun fact</strong>: Just a few months after this photo was taken, I started my tech content journey the building behind me in the photo (specifically, on the 77th floor of the Empire State Building).</div>
+    <strong>Fun fact</strong>: Just a few months after this photo was taken, I started my tech journey in the building behind me in the photo (specifically, on the 77th floor of the Empire State Building).</div>
 </div>
 </body>
 </html>
