@@ -21,7 +21,9 @@ img {border-radius: 15px;}
     <div id="left">
       <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
   </div>
-    <div id="right"> Hello there, my name is Becca and I work in tech. I spend my days shipping content and my nights consuming it. <br> <br> <strong>Fun fact</strong>: Just a few months after this photo was taken, I started my tech content journey on the 77th floor of the Empire State Building.</div>
+    <div id="right"> Hello there, my name is Becca and I work in tech. I spend my days shipping content (and content tools) and my nights consuming it. <br> <br> 
+    <div id="right"> For the last five years, Ive been building online content, specifically learning content, at one of the fastest growing startups in North America and one of the largest corporations in the world. During this time, I've found that there is a whole lot more to making great content than explicable writing and intersting topics. Content creation, in its truest sense, is a generalist speciality that pulls from many fields: computer science, data science, user experience, program management, literature (of course), and many more.<br> <br>     
+    <strong>Fun fact</strong>: Just a few months after this photo was taken, I started my tech content journey the building behind me in the photo (specifically, on the 77th floor of the Empire State Building).</div>
 </div>
 </body>
 </html>
