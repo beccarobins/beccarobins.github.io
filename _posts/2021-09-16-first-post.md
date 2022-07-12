@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome...
-published: false
+published: true
 ---
 ## A New Post
 
