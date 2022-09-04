@@ -14,6 +14,12 @@ published: true
 #left {width: 25%; margin-right: 10px; border-radius: 15px;}
 #right {width: 70%; font-family:"helvetica"; margin-top: 5px; font-size: 18px;}
 img {border-radius: 15px;}
+
+@media (max-width:629px) {
+  img#hide_on_mobile {
+    display: none;
+  }
+}
 </style>
 </head>
 <body>
