@@ -25,3 +25,9 @@ $georgia: Georgia, serif;
     @content;
   }
 }
+
+@media (max-width:629px) {
+  img#hide_on_mobile {
+    display: none;
+  }
+}
