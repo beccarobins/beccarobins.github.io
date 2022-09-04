@@ -82,3 +82,9 @@ code {
 .highlight .vg { color: #268BD2 } /* Name.Variable.Global */
 .highlight .vi { color: #268BD2 } /* Name.Variable.Instance */
 .highlight .il { color: #2AA198 } /* Literal.Number.Integer.Long */
+
+@media (max-width:629px) {
+  img#hide_on_mobile {
+    display: none;
+  }
+}
