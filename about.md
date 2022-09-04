@@ -27,6 +27,6 @@ img {border-radius: 15px;}
 </body>
 </html>
 
-### More Information
+## More Information
 
 If you're interested in checking out my _work_ work, check out [my portfolio](https://www.beccarobins.com){:target="_blank"}!
