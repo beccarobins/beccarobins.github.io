@@ -41,7 +41,7 @@ img {border-radius: 15px;}
     </div>
 </div>
     <H2>More information</H2>
-    <p>If you're interested in checking out my <i>work</i> work, check out <a href="https://www.beccarobins.com">my portfolio</a>!
+    <p>If you're interested in checking out my <i>work</i> work, check out <a href="https://www.beccarobins.com" target="_blank">my portfolio</a>!
     </p>
 </body>
 </html>
