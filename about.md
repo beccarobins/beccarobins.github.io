@@ -30,7 +30,6 @@ img {border-radius: 15px;}
         clear: both;
         display: block;
         float: left;
-        margin: 10px auto 5px 20px;
         width: 28%;
     }
 }
