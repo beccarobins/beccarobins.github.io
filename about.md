@@ -22,10 +22,10 @@ published: true
       <p>I started this blog because I've found that there is <i>a lot</i> more to content than just writing and editing. It requires reaching out to many other fields and using their methods. I'll use this blog to describe the many different approaches I've used along the way, which I hope can help others in their content journeys.
       </p>
       <br><br>
-    </article>
       <H2>More information</H2>
       <p>If you're interested in checking out my <i>work</i> work, check out <a href="https://www.beccarobins.com" target="_blank">my portfolio</a>!
       </p>
+    </article>
   </div>
 </body>
 </html>
