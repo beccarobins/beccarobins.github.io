@@ -7,36 +7,25 @@ published: true
 
 <html>
 <head>
-<style type="text/css">
-* {margin: 0; padding: 0;}
-#container {height: 100%; width:100%; font-size: 0;}
-#left, #middle, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
-#left {width: 25%; margin-right: 10px; border-radius: 15px;}
-#right {width: 70%; font-family:"helvetica"; margin-top: 5px; font-size: 18px; display:inline-block}
-img {border-radius: 15px;}
-
-@media (max-width:629px) {
-  figure#hide_on_mobile {
-    display: none;
-  }
-}
-
-</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div id="container">
-    <div id="left">
-      <figure id="hide_on_mobile">
-        <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
-        <figcaption><strong>Fun fact</strong>: Just a few months after this photo was taken, I began my tech journey in the building behind me in the photo.</figcaption>
-      </figure>
+  <figure>
+    <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
+    <figcaption><strong>Fun fact</strong>: Just a few months after this photo was taken, I began my tech journey in the building behind me in the photo.</figcaption>
+  </figure>
+  <div class="wrapper">
+    <article class="img-info">
+      <p> Hello there, my name is Becca and I work in tech. I spend my days shipping content (and content tools) and my nights consuming it. For the last five years, I've built content at one of the fastest growing startups in North America and one of the largest corporations in the world. Prior to that, I was a neuroscientist (and not producing much content at all). Boy have things changed. </p>
+      <br><br>
+      <p>I started this blog because I've found that there is <i>a lot</i> more to content than just writing and editing. It requires reaching out to many other fields and using their methods. I'll use this blog to describe the many different approaches I've used along the way, which I hope can help others in their content journeys.
+      </p>
+      <br><br>
+    </article>
   </div>
-    <div id="right"> Hello there, my name is Becca and I work in tech. I spend my days shipping content (and content tools) and my nights consuming it. For the last five years, I've built content at one of the fastest growing startups in North America and one of the largest corporations in the world. Prior to that, I was a neuroscientist (and not producing much content at all). Boy have things changed.<br> <br>
-    I started this blog because I've found that there is <i>a lot</i> more to content than just writing and editing. It requires reaching out to many other fields and using their methods. I'll use this blog to describe the many different approaches I've used along the way, which I hope can help others in their content journeys.<br>
-    </div>
-</div>
-    <H2>More information</H2>
-    <p>If you're interested in checking out my <i>work</i> work, check out <a href="https://www.beccarobins.com" target="_blank">my portfolio</a>!
-    </p>
+  <H2>More information</H2>
+  <p>If you're interested in checking out my <i>work</i> work, check out <a href="https://www.beccarobins.com" target="_blank">my portfolio</a>!
+  </p>
 </body>
 </html>

@@ -288,3 +288,23 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+.wrapper {
+  width: 100%
+}
+
+.img-me {
+  width: 100%
+}
+
+.img-info {
+  width: 100%;
+}
+
+.img-info p {
+  padding: 0px 30px 20px;
+  font-family: helvetica;
+  font-size: 50px;
+  color: #111;
+  line-height: 24px;
+}
