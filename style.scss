@@ -309,10 +309,21 @@ footer {
   line-height: 24px;
 }
 
+.img-info h2 {
+  padding: 0px 30px 20px;
+  font-family: helvetica;
+  font-size: 50px;
+  color: #111;
+  line-height: 44px;
+}
+
 @media only screen and (min-width: 768px) {
   .wrapper {
     width: 600px;
-    margin: auto;
+    margin: 0 auto;
+  }
+  .img-info h2 {
+    padding: 0px 0px 0px;
   }
   .img-info p {
     padding: 0px 0px 0px;
@@ -327,15 +338,18 @@ footer {
     width: 1000px;
   }
   .img-info {
-    width: 50%;
+    width: 70%;
     float: right;
+  }
+  .img-info h2 {
+    padding: 0px 0px 0px 30px;
   }
   .img-info p {
     padding: 0px 0px 0px 30px;
   }
   .img-me {
     padding-top: 0px;
-    width: 50%;
+    width: 30%;
     float: left;
   }
 }
