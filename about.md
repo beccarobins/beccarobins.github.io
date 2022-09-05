@@ -26,14 +26,14 @@ img {border-radius: 15px;}
 </style>
 </head>
 <body>
-<div id="container">
+<div class="block" id="container">
     <div id="left">
       <figure id="hide_on_mobile">
         <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
         <figcaption><strong>Fun fact</strong>: Just a few months after this photo was taken, I began my tech journey in the building behind me in the photo.</figcaption>
       </figure>
   </div>
-    <div class="block" id="right"> Hello there, my name is Becca and I work in tech. I spend my days shipping content (and content tools) and my nights consuming it. For the last five years, I've built content at one of the fastest growing startups in North America and one of the largest corporations in the world. Prior to that, I was a neuroscientist (and not producing much content at all). Boy have things changed.<br> <br>
+    <div id="right"> Hello there, my name is Becca and I work in tech. I spend my days shipping content (and content tools) and my nights consuming it. For the last five years, I've built content at one of the fastest growing startups in North America and one of the largest corporations in the world. Prior to that, I was a neuroscientist (and not producing much content at all). Boy have things changed.<br> <br>
     I started this blog because I've found that there is <i>a lot</i> more to content than just writing and editing. It requires reaching out to many other fields and using their methods. I'll use this blog to describe the many different approaches I've used along the way, which I hope can help others in their content journeys.<br>
     </div>
 </div>
