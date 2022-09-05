@@ -24,12 +24,10 @@ published: true
   </figure>
   </div>
   <div class="wrapper">
-    <article class="img-info">
       <H2>More information</H2>
       <p>If you're interested in checking out my <i>work</i> work, check out <a href="https://www.beccarobins.com" target="_blank">my portfolio</a>!
       </p>
       <br>
-      </article>
   </div>
 </body>
 </html>
