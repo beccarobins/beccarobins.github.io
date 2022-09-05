@@ -294,7 +294,7 @@ footer {
 }
 
 .img-me {
-  width: 100%
+  display: none;
 }
 
 .img-info {
@@ -330,8 +330,7 @@ footer {
   }
   .img-me {
     padding-top: 30px;
-    width: 50%;
-    height: 50%;
+    display: none;
   }
 }
 
