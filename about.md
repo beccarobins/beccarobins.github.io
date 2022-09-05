@@ -26,12 +26,34 @@ img {border-radius: 15px;}
 @media only screen and (max-width: 767px) {
 .block{ width:100%;}
 }
+
+body {
+	color: #fff;
+	background: url(px.png) #333; 
+	line-height: 1.4;
+	font-size: 1.1rem;
+}
+figure#oymyakon {
+	float: right; width: 50%;
+	font-size: 0;
+}
+figure#oymyakon img { 
+	width: 100%; height: auto;
+	box-shadow: 0 0 12px rgba(0,0,0,.3);
+}
+figure#oymyakon figcaption {
+	text-align: center;
+	font-size: 1rem;
+	font-style: italic;
+	margin-top: 1rem;
+}
+
 </style>
 </head>
 <body>
 <div id="container">
     <div id="left">
-      <figure id="hide_on_mobile">
+      <figure id="oymyakon">
         <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
         <figcaption><strong>Fun fact</strong>: Just a few months after this photo was taken, I began my tech journey in the building behind me in the photo.</figcaption>
       </figure>
