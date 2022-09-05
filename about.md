@@ -27,12 +27,6 @@ img {border-radius: 15px;}
 .block{ width:100%;}
 }
 
-body {
-	color: #fff;
-	background: url(px.png) #333; 
-	line-height: 1.4;
-	font-size: 1.1rem;
-}
 figure#oymyakon {
 	float: right; width: 50%;
 	font-size: 0;
