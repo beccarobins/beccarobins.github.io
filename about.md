@@ -15,8 +15,6 @@ published: true
 #right {width: 70%; font-family:"helvetica"; margin-top: 5px; font-size: 18px; display:inline-block}
 img {border-radius: 15px;}
 
-.block{text-align: left; width:70%; margin:0px; padding:0px 0; float:right;}
-
 @media (max-width:629px) {
   figure#hide_on_mobile {
     display: none;
