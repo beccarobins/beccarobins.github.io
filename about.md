@@ -20,11 +20,9 @@ img {border-radius: 15px;}
     display: none;
   }
 }
-
-<meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
-
 </style>
 </head>
+<meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
 <body>
 <div id="container">
     <div id="left">
