@@ -9,6 +9,11 @@ published: true
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="style.css">
+
+<style>
+#test {margin-left: 10px;}
+</style>
+
 </head>
 <body>
   <div class="wrapper">
@@ -22,7 +27,7 @@ published: true
     <figcaption><strong>Fun fact</strong>: Just a few months after this photo was taken, I began my tech journey in the building behind me in the photo.</figcaption>
   </figure>
   </div>
-  <div style="padding-left: 10px">
+  <div id="test">
       <H2>More information</H2>
       <p>If you're interested in checking out my <i>work</i> work, check out <a href="https://www.beccarobins.com" target="_blank">my portfolio</a>!
       </p>
