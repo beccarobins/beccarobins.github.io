@@ -7,6 +7,9 @@ published: true
 
 <html>
 <head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <style type="text/css">
 * {margin: 0; padding: 0;}
 #container {height: 100%; width:100%; font-size: 0;}
@@ -16,8 +19,6 @@ published: true
 img {border-radius: 15px;}
 
 .block{text-align: left; width:70%; margin:0px; padding:0px 0; float:right;}
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 @media (max-width:629px) {
   figure#hide_on_mobile {
