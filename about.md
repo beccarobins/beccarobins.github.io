@@ -26,7 +26,7 @@ img {border-radius: 15px;}
 </style>
 </head>
 <body>
-<div class="block" id="container">
+<div id="container">
     <div id="left">
       <figure id="hide_on_mobile">
         <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
