@@ -21,7 +21,7 @@ img {border-radius: 15px;}
   }
 }
 
-.block{text-align: left; width:70%; margin:0px; padding:0px 0; float:left;}
+.block{text-align: right; width:70%; margin:0px; padding:0px 0; float:right;}
 
 
 @media only screen and (max-width: 767px) {
