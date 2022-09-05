@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-<html>
+<!DOCTYPE html>
 <head>
 <style type="text/css">
 * {margin: 0; padding: 0;}
