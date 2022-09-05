@@ -17,6 +17,8 @@ img {border-radius: 15px;}
 
 .block{text-align: left; width:70%; margin:0px; padding:0px 0; float:right;}
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 @media (max-width:629px) {
   figure#hide_on_mobile {
     display: none;
