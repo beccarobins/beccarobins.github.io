@@ -301,10 +301,21 @@ footer {
   width: 100%;
 }
 
+.img-info p {
+  padding: 0px 30px 20px;
+  font-family: helvetica;
+  font-size: 16px;
+  color: #111;
+  line-height: 24px;
+}
+
 @media only screen and (min-width: 768px) {
   .wrapper {
     width: 600px;
-    margin: 0 auto;
+    margin: auto;
+  }
+  .img-info p {
+    padding: 20px 0px 0px;
   }
   .img-me {
     padding-top: 30px;
@@ -316,8 +327,11 @@ footer {
     width: 1000px;
   }
   .img-info {
-    width: 70%;
+    width: 50%;
     float: right;
+  }
+  .img-info p {
+    padding: 20px 0px 0px 30px;
   }
   .img-me {
     padding-top: 0px;
