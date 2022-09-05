@@ -20,14 +20,16 @@ published: true
     </article>
     <figure class="img-me">
     <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
-    <figcaption style="font-size: 12px"><strong>Fun fact</strong>: Just a few months after this photo was taken, I began my tech journey in the building behind me in the photo.</figcaption>
+    <figcaption style="font-size: 12px"><strong>Fun fact</strong>: Just a few months after this photo was taken, I began my tech journey in the building behind me.</figcaption>
   </figure>
   </div>
   <div class="wrapper">
+  <div class="img-info">
       <H2>More information</H2>
       <p>If you're interested in checking out my <i>work</i> work, check out <a href="https://www.beccarobins.com" target="_blank">my portfolio</a>!
       </p>
       <br>
+      </div>
   </div>
 </body>
 </html>
