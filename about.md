@@ -31,7 +31,7 @@ img {border-radius: 15px;}
       </figure>
   </div>
     <div id="right"> Hello there, my name is Becca and I work in tech. I spend my days shipping content (and content tools) and my nights consuming it. For the last five years, I've built content at one of the fastest growing startups in North America and one of the largest corporations in the world. Prior to that, I was a neuroscientist (and not producing much content at all). Boy have things changed.<br> <br>
-    I started this blog because I've found that there is <italic>a lot</italic> more to content than just writing and editing. It requires reaching out to many other fields and using their methods. I'll use this blog to describe the many different approaches I've used along the way, which I hope can help others in their content journeys.
+    I started this blog because I've found that there is <i>a lot</i> more to content than just writing and editing. It requires reaching out to many other fields and using their methods. I'll use this blog to describe the many different approaches I've used along the way, which I hope can help others in their content journeys.
     </div>
 </div>
 </body>
