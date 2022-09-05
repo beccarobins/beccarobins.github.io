@@ -21,24 +21,11 @@ img {border-radius: 15px;}
   }
 }
 
-#title_message {
-    display: none;
-}
-
-@media screen and (min-width: 768px) {
-    #title_message {
-        clear: both;
-        display: block;
-        float: left;
-        width: 28%;
-    }
-}
-
 </style>
 </head>
 <body>
 <div id="container">
-    <div id="title_message">
+    <div>
       <figure id="hide_on_mobile">
         <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
         <figcaption><strong>Fun fact</strong>: Just a few months after this photo was taken, I began my tech journey in the building behind me in the photo.</figcaption>
