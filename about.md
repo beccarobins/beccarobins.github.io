@@ -29,7 +29,7 @@ published: true
     </div>
   </div>
    <div class="test">
-    <H2</H2>
+    <H2></H2>
     <p>If you're interested in checking out my <i>work</i> work, check out <a href="https://www.beccarobins.com" target="_blank">my portfolio</a>!
     </p>
     <br>
