@@ -306,6 +306,9 @@ footer {
     width: 600px;
     margin: auto;
   }
+  .wrapper p {
+    padding-left: 10px;
+  }
 }
 
 @media only screen and (min-width: 1000px) {
@@ -313,9 +316,6 @@ footer {
     width: 1000px;
     padding-bottom: 10px;
     margin-left: 10px;
-  }
-  .wrapper p {
-    padding-left: 10px;
   }
   .img-me {
     width: 20%;
