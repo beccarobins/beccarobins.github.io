@@ -27,8 +27,8 @@ published: true
       <H2>More information</H2>
       <p>If you're interested in checking out my <i>work</i> work, check out <a href="https://www.beccarobins.com" target="_blank">my portfolio</a>!
       </p>
-      <br>
       </div>
+    <br>
   </div>
 </body>
 </html>
