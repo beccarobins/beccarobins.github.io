@@ -312,6 +312,7 @@ footer {
   .wrapper {
     width: 1000px;
     padding-bottom: 10px;
+    margin-left: 10px;
   }
   .img-me {
     width: 20%;
@@ -321,5 +322,8 @@ footer {
   .img-info {
     width: 80%;
     float: right;
+  }
+  .img-info p {
+    padding-left: 10px;
   }
 }
