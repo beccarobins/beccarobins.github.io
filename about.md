@@ -25,8 +25,5 @@ published: true
     <p>If you're interested in checking out my <i>work</i> work, check out <a href="https://www.beccarobins.com" target="_blank">my portfolio</a>!
     </p>
   </div>
-  <div class="wrapper">
-    <br>
-  </div>
 </body>
 </html>
