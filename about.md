@@ -21,6 +21,13 @@ published: true
     <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
     <figcaption style="font-size: 12px"><strong>Fun fact</strong>: Just a few months after this photo was taken, I began my tech journey in the building behind me.</figcaption>
     </figure>
+    <div>
+   <div>
+    <H2> </H2>
+    <p> 
+    </p>
+    <br>
+    </div>
   </div>
    <div class="test">
     <H2>More information</H2>
