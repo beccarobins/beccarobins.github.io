@@ -22,7 +22,7 @@ published: true
     <figcaption style="font-size: 12px"><strong>Fun fact</strong>: Just a few months after this photo was taken, I began my tech journey in the building behind me.</figcaption>
   </figure>
   </div>
-  <div class="wrapper" style="padding-left: 100px">
+  <div class="wrapper" style="margin-left: 10px">
       <H2>More information</H2>
       <p>If you're interested in checking out my <i>work</i> work, check out <a href="https://www.beccarobins.com" target="_blank">my portfolio</a>!
       </p>
