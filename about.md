@@ -22,10 +22,8 @@ published: true
     <figcaption style="font-size: 12px"><strong>Fun fact</strong>: Just a few months after this photo was taken, I began my tech journey in the building behind me.</figcaption>
     </figure>
     <div>
-   <div>
-    <H2> </H2>
-    <p> 
-    </p>
+   <div font-color="white">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     <br>
     </div>
   </div>
@@ -34,6 +32,6 @@ published: true
     <p>If you're interested in checking out my <i>work</i> work, check out <a href="https://www.beccarobins.com" target="_blank">my portfolio</a>!
     </p>
     <br>
-    </div>
+  </div>
 </body>
 </html>
