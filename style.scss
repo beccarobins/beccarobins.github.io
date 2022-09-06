@@ -323,17 +323,13 @@ footer {
     margin-left: 10px;
   }
 
-  .test h2 {
-    padding-left: 10px;
-    margin-left: 10px;
-    background: aqua;
-  }
-
   .test p {
     margin-left: 10px;
-    background: red;
   }
-
+  .test {
+    width: 80%;
+    float: right;
+  }
   .img-me {
     width: 20%;
     float: left;
