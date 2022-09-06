@@ -22,9 +22,9 @@ published: true
     <figcaption style="font-size: 12px"><strong>Fun fact</strong>: Just a few months after this photo was taken, I began my tech journey in the building behind me.</figcaption>
     </figure>
     <div>
-    <H2></H2>
-    <p>
-    </p>
+    <br>
+    <br>
+    <br>
     <br>
     </div>
   </div>
