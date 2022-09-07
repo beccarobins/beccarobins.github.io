@@ -18,6 +18,7 @@ published: true
       </p>
       <p>Outside of work, you'll find me hanging out with my two kitties, McCallister and Oscar. When Mick and Ozzy aren't distracting me with their late-night partying, I'm pursuing my other interests: online education, art, fitness, pickles, and <i>doughnuts</i>. One of my favorite things to do when I travel is go on a "doughnut tour" and try the local fare. While New York is the doughnut king, Scotland has some truly dazzling dough.
       </p>
+      <br>
     </article>
     <figure class="img-me">
     <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
