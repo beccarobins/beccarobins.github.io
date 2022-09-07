@@ -289,6 +289,10 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
+//
+// Style for about.md
+//
+
 .wrapper {
   width: 100%
 }
@@ -313,11 +317,8 @@ footer {
 
 @media only screen and (min-width: 1000px) {
   .wrapper {
-    width: 1000px;
+    width: 100%;
     padding-left: 10px;
-  }
-  .wrapper div{
-    background: red;
   }
   .wrapper p {
     padding-left: 10px;
