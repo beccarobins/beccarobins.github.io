@@ -6,27 +6,29 @@ published: true
 ---
 
 <html>
-<head>
-<style type="text/css">
-* {margin: 0; padding: 0;}
-#container {height: 100%; width:100%; font-size: 0;}
-#left, #middle, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
-#left {width: 25%; margin-right: 10px; border-radius: 15px;}
-#right {width: 70%; font-family:"helvetica"; margin-top: 5px; font-size: 18px;}
-img {border-radius: 15px;}
-</style>
-</head>
-<body>
-<div id="container">
-    <div id="left">
-      <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
-  </div>
-    <div id="right"> Hello there, my name is Becca and I work in tech. I spend my days shipping content (and content tools) and my nights consuming it. For the last five years, I've built content at one of the fastest growing startups in North America and one of the largest corporations in the world. Prior to that, I was a neuroscientist (and not producing much content at all). Boy have things changed.<br> <br>     
-    <strong>Fun fact</strong>: Just a few months after this photo was taken, I started my tech journey in the building behind me in the photo (specifically, on the 77th floor of the Empire State Building).</div>
-</div>
-</body>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <article class="img-info">
+        <p> Hello there, my name is Becca and I work in tech. I spend my days shipping content (and content tools) and my nights consuming it. For the last five years, I've built content at one of the fastest growing startups in North America and one of the largest corporations in the world. Prior to that, I was a neuroscientist (and not producing much content at all). Boy have things changed.</p>
+        <p>I started this blog because I've found that there is <i>a lot</i> more to content than just writing and editing. It requires reaching out to many other fields and using their methods. I'll use this blog to describe the many different approaches I've used along the way, which I hope can help others in their content journeys.
+        </p>
+        <p>Outside of work, you'll find me hanging out with my two kitties, McCallister and Oscar. When Mick and Ozzy aren't distracting me with their late-night partying, I'm pursuing my other interests: online education, art, fitness, pickles, and <i>doughnuts</i>. One of my favorite things to do when I travel is go on a "doughnut tour" and try the local fare. While New York is the doughnut king, Scotland has some truly dazzling dough.
+        </p>
+        <br>
+      </article>
+      <figure class="img-me">
+        <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background.">
+        <figcaption style="font-size: 12px"><strong>Fun fact</strong>: A few months after this photo was taken, I began my tech journey in the building behind me.</figcaption>
+      </figure>
+      <article>
+        <br>
+        <p>If you're interested in my <i>work</i> work, check out <a href="https://www.beccarobins.com" target="_blank">my portfolio</a>!
+        </p>
+      </article>
+    </div>
+  </body>
 </html>
-
-## More Information
-
-If you're interested in checking out my _work_ work, check out [my portfolio](https://www.beccarobins.com){:target="_blank"}!
