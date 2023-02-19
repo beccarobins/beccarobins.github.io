@@ -11,3 +11,9 @@ GitHub
 Wordpress
 
 Whatever
+
+## Understand the faults and have a workaround
+
+Nothing is perfect. 
+
+For example, this blog is written in GitHub. I've been working directly in the web-hosted repository (not in a locally cloned repo using a text editor) and spell checking is nonexistent. This makes sense because repos are mostly used to host code, not content. 
