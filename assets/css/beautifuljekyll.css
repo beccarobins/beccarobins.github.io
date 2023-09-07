@@ -50,6 +50,63 @@ h1, h2, h3, h4 {
 a {
   color: {{ site.link-col | default: "#008AFF" }};
 }
+
+.center {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+/* The alert message box */
+.alert-warning {
+  padding: 20px;
+  background-color: #f44336; /* Red */
+  color: white;
+  margin-bottom: 15px;
+  border-radius: 15px;
+}
+
+.alert-note {
+  padding: 20px;
+  background-color: #1CADE4; /* Blue */
+  color: white;
+  margin-bottom: 15px;
+  border-radius: 15px;
+}
+
+.alert-important {
+  padding: 20px;
+  background-color: #10eb2d; /* Green */
+  color: white;
+  margin-bottom: 15px;
+  border-radius: 15px;
+}
+
+.alert-reminder {
+  padding: 20px;
+  background-color: #f7e70c; /* Yellow */
+  color: black;
+  margin-bottom: 15px;
+  border-radius: 15px;
+}
+
+/* The close button */
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+  color: black;
+}
+
 a:hover,
 a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
@@ -102,6 +159,7 @@ img::-moz-selection {
 
 img {
   max-width: 100%;
+  border-radius: 5px;
 }
 
 .linked-section {

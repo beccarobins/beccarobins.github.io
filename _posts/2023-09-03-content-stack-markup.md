@@ -21,7 +21,7 @@ A _markup_ language called _markdown_? What? Yes, yes you read that correctly. W
 
 Here is what the header and first sentence of this section looks like in Markdown:
 
-```Markdown
+```
 ### Markdown
 
 A _markup_ language called _markdown_?
@@ -29,7 +29,7 @@ A _markup_ language called _markdown_?
 
 Here is an example image formatted in Markdown using the following syntax: 
 
-``` Markdown
+```
 ![Becca's cat Oscar playing with a bath towel.](../images/oscar_towel.jpg)
 ```
 
@@ -47,7 +47,7 @@ Even if you've never used HTML, you've probably heard of it. I first used it 20+
 
 Here is the header and the first sentence from the previous section in HTML for comparison:
 
-```HTML
+```
 <H3>Markdown</H3>
 <p>A <i>markup</i> language called <i>markdown</i>?
 ```
@@ -58,9 +58,10 @@ Now here is the same image from before, but using some image attributes in HTML:
 
 <div>
 <img src="../images/oscar_towel.jpg" alt="Becca's cat Oscar playing with a bath towel." width="50%" height="50%" class="center">
+<br>
 </div>
 
-```HTML
+```
 <div>
 <img src="../images/oscar_towel.jpg" 
      alt="Becca's cat Oscar playing with a bath towel." 
@@ -82,7 +83,7 @@ There are tons of other markup languages out there&mdash;and there are also "fla
 - **XML** or eXtensible Markup Language is a "meta" markup language as its purpose is for storing and transmitting data (see: [What Are Markup Languages?][What Are Markup Languages? Semrush]).
 - **GitHub-flavored Markdown** - is an extension of standard Markdown built specifically for use on <github.com> (where this blog is hosted). It supports more advanced functionality, such as creating functional checklists or bitly-style short links to reference pull requests or issues.
 
-If you need to learn about another markup language, Wikipedia has a [list of markup languages][List of markup languages], which links to even more specific lists of markup languages (I told you there were tons). 
+If you need to learn about another markup language, Wikipedia has a [list of markup languages][List of markup langauges], which links to even more specific lists of markup languages (I told you there were tons). 
 
 ## Summary
 
@@ -91,10 +92,17 @@ Knowing the ins and outs of your markup language _will_ make you a better conten
 Stay tuned for the next part of the content stack series, which will cover [authoring tools](../coming-soon)&mdash;the program where you'll use all your markup skills.
 
 [Markdown guide]: https://www.markdownguide.org/
+
 [Markup language]: https://en.wikipedia.org/wiki/Markup_language
+
 [What Are Markup Languages? Semrush]: https://www.semrush.com/blog/markup-language/
+
 [What is a Markup Language?]: https://www.howtogeek.com/721685/what-is-a-markup-language/
+
 [List of markup langauges]: https://en.wikipedia.org/wiki/List_of_markup_languages
+
 [W3 HTML]: https://www.w3schools.com/html/
+
 [Unicode]: https://home.unicode.org/
+
 [YAML]: https://geekflare.com/yaml-introduction/
