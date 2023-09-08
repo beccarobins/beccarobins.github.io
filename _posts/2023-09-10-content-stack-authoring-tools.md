@@ -3,6 +3,14 @@ layout: post
 title: >
     The content stack - part 2: authoring tools
 published: false
+# subtitle: Excerpt from Soulshaping by Jeff Brown
+# cover-img: /assets/img/path.jpg
+# thumbnail-img: /assets/img/thumb.png
+share-img: /images/social-share-logo.png
+gh-repo: beccarobins/beccarobins.github.io
+# gh-badge: [star, fork, follow]
+gh-badge: [follow]
+# tags: [books, test]
 ---
 
 In the first post of the this series, I wrote about markup languages. To show how those markup languages shape your text, you need an _authoring tool_, otherwise your text will \_just\_ look \*\*crazy\*\* and you won't know what you've actually done to it. Here we'll dive into some of the key features of an authoring tool and look at some widely used tools.

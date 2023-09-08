@@ -3,6 +3,14 @@ layout: post
 title: >
     The content stack series
 published: true
+# subtitle: Excerpt from Soulshaping by Jeff Brown
+# cover-img: /assets/img/path.jpg
+# thumbnail-img: /assets/img/thumb.png
+share-img: /images/social-share-logo.png
+gh-repo: beccarobins/beccarobins.github.io
+# gh-badge: [star, fork, follow]
+gh-badge: [follow]
+# tags: [books, test]
 ---
 
 Engineers and data scientists are always talking about their "stack". OK okay, engineers and data scientists _on social media_ are the ones "always talking" about their stack, but they're not the only ones in tech with a stack. Content has its own stack, and while it may not be as vast or deep as that of an engineer, it's certainly worth mentioning.
