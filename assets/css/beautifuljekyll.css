@@ -376,13 +376,13 @@ img {
 }
 /* This section updates the logo/avatar image on the web */
 .navbar-custom .avatar-container {
-  position: absolute;
+  position:absolute;
   left: 50%;
-  width: 6.25rem;
+  width: 4.25rem;
   bottom: 0.75rem
-  transition: opacity 0.5s ease-in-out;
+  /* transition: opacity 0.5s ease-in-out;
   -webkit-transition: opacity 0.5s ease-in-out;
-  -moz-transition: opacity 0.5s ease-in-out;
+  -moz-transition: opacity 0.5s ease-in-out; */
 }
 .navbar-custom.top-nav-short .avatar-container {
   opacity: 0;
@@ -418,7 +418,6 @@ img {
   .navbar-custom.top-nav-regular .avatar-container {
     width: 6.25rem;
     bottom: 0.75rem
-    visibility: hidden;
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
