@@ -374,16 +374,16 @@ img {
 .navbar-custom .navbar-nav .dropdown-menu .dropdown-item:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
 }
-/* This section updates the logo/avatar image in mobile */
+/* This section updates the logo/avatar image on the web */
 .navbar-custom .avatar-container {
   position: absolute;
   left: 50%;
-  visibility: hidden;
-  width: 4.25rem;
+  /* visibility: hidden; */
+  width: 6.25rem;
   bottom: 0.75rem
-  /*transition: opacity 0.5s ease-in-out;
+  transition: opacity 0.5s ease-in-out;
   -webkit-transition: opacity 0.5s ease-in-out;
-  -moz-transition: opacity 0.5s ease-in-out; */
+  -moz-transition: opacity 0.5s ease-in-out;
 }
 .navbar-custom.top-nav-short .avatar-container {
   opacity: 0;
@@ -419,6 +419,7 @@ img {
   .navbar-custom.top-nav-regular .avatar-container {
     width: 6.25rem;
     bottom: 0.75rem
+    visibility: hidden;
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
