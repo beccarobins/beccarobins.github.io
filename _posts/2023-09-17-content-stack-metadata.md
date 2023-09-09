@@ -3,6 +3,7 @@ layout: post
 title: >
     The content stack - part 3: metadata
 published: false
+tags: [content stack, metadata]
 ---
 
 You may or may not be familiar with the term metadata, but you've certainly used it before. Metadata is what is, well, meta. It's data _about_ data. And you've used it any time you've searched for something, whether it's in Google, on Amazon, or while watching Netflix. Metadata provides the backbone for sets of content by making it searchable, filterable, sortable, et cetera. Without metadata tagged to content, you'd spend A LOT more time looking for what you want.

@@ -10,7 +10,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-# tags: [books, test]
+tags: [content stack, markup lanaguages, Markdown, HTML]
 ---
 
 Although you may consider yourself a writer first and foremost, venturing into writing for the web requires much more than grammar skills alone. You'll most likely find yourself needing to "mark up" your writing to format it appropriately for your site and enhance its readability for your audience. And the tool to do this is a **markup language**.
