@@ -535,6 +535,12 @@ footer .footer-custom-content {
     padding: 2.1875rem 0;
   }
 }
+/* Remove post preview image display on mobile */
+@media (max-width: 768px) {
+  .post-image-small img {
+    display: none;
+  }
+}
 
 .post-preview:last-child {
   border-bottom: 0;
