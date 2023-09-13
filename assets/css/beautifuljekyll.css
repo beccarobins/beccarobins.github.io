@@ -564,7 +564,8 @@ footer .footer-custom-content {
 }
 .post-preview .post-subtitle {
   margin: 0;
-  font-weight: 300;
+  font-weight: 600;
+  font-style: normal;
   margin-bottom: 0.625rem;
 }
 .post-preview .post-meta,
