@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >
-    The content stack series
+title: The content stack series
 published: true
 # subtitle: Excerpt from Soulshaping by Jeff Brown
 # cover-img: /assets/img/path.jpg

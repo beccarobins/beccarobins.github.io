@@ -1,9 +1,9 @@
 ---
 layout: post
-title: >
-    The content stack - part 2: authoring tools
+title: The content stack
 published: true
-# subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: >
+    Part 2: authoring tools
 # cover-img: /assets/img/path.jpg
 # thumbnail-img: /assets/img/thumb.png
 share-img: /images/social-share-logo.png
