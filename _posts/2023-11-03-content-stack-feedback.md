@@ -1,9 +1,16 @@
 ---
 layout: post
-title: >
-    The content stack - part 7: feedback
+title: The content stack
 published: false
-
+subtitle: >
+    Part 7: feedback
+# cover-img: /assets/img/path.jpg
+thumbnail-img: https://media.giphy.com/media/oYapDjZA6bnrQAwbi6/giphy.gif
+share-img: /images/social-share-logo.png
+gh-repo: beccarobins/beccarobins.github.io
+# gh-badge: [star, fork, follow]
+gh-badge: [follow]
+tags: [content stack, feedback, customers, data]
 ---
 
 _Someone_ has _something_ to say about your content. Someone probably already has said something. And it's your job to listen to them. Well, sometimes.

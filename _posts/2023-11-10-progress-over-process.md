@@ -2,6 +2,14 @@
 layout: post
 title: Progress over process
 published: false
+# subtitle: Excerpt from Soulshaping by Jeff Brown
+# cover-img: /assets/img/path.jpg
+# thumbnail-img: /assets/img/thumb.png
+share-img: /images/social-share-logo.png
+gh-repo: beccarobins/beccarobins.github.io
+# gh-badge: [star, fork, follow]
+gh-badge: [follow]
+tags: [content process]
 ---
 
 This post is actually pretty domain-agnostic, but it's something that has been bugging me for a while now. It's about _process_. And believe you me, I **love** process. Process brings structure, consistency, and cohesiveness. If you ask me to operationalize something, I'm going to be pumped! But BUT, if you focus so much on process that you're not _progressing_, you're doing it wrong.

@@ -1,8 +1,16 @@
 ---
 layout: post
-title: >
-    The content stack - part 4: the CMS
+title: The content stack
 published: false
+subtitle: >
+    Part 4: the content management system
+# cover-img: /assets/img/path.jpg
+# thumbnail-img: /assets/img/thumb.png
+share-img: /images/social-share-logo.png
+gh-repo: beccarobins/beccarobins.github.io
+# gh-badge: [star, fork, follow]
+gh-badge: [follow]
+tags: [content stack, content management system]
 ---
 
 We're continuing the content stack series by dipping our toe into the vast world of content management systems. **Content management systems** (also known as CMS) are _where_ content work happens. The CMS landscape is _vast_ and I do **not** recommend learning everything about all of them, but knowing their intents and purposes and some basic functionality will get you a long way.

@@ -1,8 +1,16 @@
 ---
 layout: post
-title: >
-    The content stack - part 9: quantitative data
+title: The content stack
 published: false
+subtitle: >
+    Part 9: quantitative data
+# cover-img: /assets/img/path.jpg
+thumbnail-img: https://media.giphy.com/media/h8RDGogSns9wpOJFzR/giphy.gif
+share-img: /images/social-share-logo.png
+gh-repo: beccarobins/beccarobins.github.io
+# gh-badge: [star, fork, follow]
+gh-badge: [follow]
+tags: [content stack, quantitative data, dashboards, reports]
 ---
 
 Wow, we've made it to the last post in the content stack series. And it's a goodie. 

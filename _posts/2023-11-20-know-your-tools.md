@@ -2,6 +2,14 @@
 layout: post
 title: Know your tools
 published: false
+# subtitle: Excerpt from Soulshaping by Jeff Brown
+# cover-img: /assets/img/path.jpg
+# thumbnail-img: /assets/img/thumb.png
+share-img: /images/social-share-logo.png
+gh-repo: beccarobins/beccarobins.github.io
+# gh-badge: [star, fork, follow]
+gh-badge: [follow]
+tags: [content tools]
 ---
 
 This seems like a no-brainer, doesn't it? But _you know_ how you know someone who somehow breaks everything? That person isn't unlucky. They just don't know what they're doing. Don't be them. Learn the tools in your toolbox and _keep learning_ them. You might break things as you go, but you'll also learn how to fix them.

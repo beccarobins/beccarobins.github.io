@@ -1,8 +1,15 @@
 ---
 layout: post
-title: >
-    The content stack - part 3: metadata
+title: The content stack
 published: false
+subtitle: >
+    Part 3: metadata
+# cover-img: /assets/img/path.jpg
+thumbnail-img: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ6b2tvbHcwZ3hoYmRqdW85MTU5NDA3bDd3NHM5OXc4anMxbTVzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif
+share-img: /images/social-share-logo.png
+gh-repo: beccarobins/beccarobins.github.io
+# gh-badge: [star, fork, follow]
+gh-badge: [follow]
 tags: [content stack, metadata]
 ---
 

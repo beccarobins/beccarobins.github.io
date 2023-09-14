@@ -2,6 +2,14 @@
 layout: post
 title: Hey there Newchip
 published: false
+# subtitle: Excerpt from Soulshaping by Jeff Brown
+# cover-img: /assets/img/path.jpg
+# thumbnail-img: /assets/img/thumb.png
+share-img: /images/social-share-logo.png
+gh-repo: beccarobins/beccarobins.github.io
+# gh-badge: [star, fork, follow]
+gh-badge: [follow]
+tags: [content, becca robins, job, hire me]
 ---
 
 Becca Robins is a technology professional working at the intersection of Product, Content, and Research. She is seeking a new role and thinks you'll be very interested in hiring her.
