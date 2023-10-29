@@ -16,8 +16,8 @@ Engineers and data scientists are always talking about their "stack". OK okay, e
 
 Here, I'll provide an overview of some key parts of the stack. I'll go into more depth on the elements that are more pervasive (such as markup languages), but less so on the parts that are often developed internally (like authoring tools) or have _way_ too many proprietary options to keep these posts relatively succinct (content management systems). Alright, so here is what you will see in the series:
 
-- [Part 1: markup languages](../content-stack-markup) 
-- [Part 2: authoring tools](../coming-soon)
+- [Part 1: markup languages](../2023-09-03-content-stack-markup) 
+- [Part 2: authoring tools](../2023-09-13-content-stack-authoring-tools)
 - [Part 3: metadata](../coming-soon)
 - [Part 4: content management systems](../coming-soon)
 - [Part 5: staging & production sites](../coming-soon)
