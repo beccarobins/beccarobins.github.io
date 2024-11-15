@@ -26,7 +26,7 @@ published: true
       </figure>
       <article>
         <br>
-        <p>If you're interested in my <i>work</i> work, check out <a href="https://www.beccarobins.com" target="_blank">my portfolio</a>!
+        <p>If you're interested in my <i>work</i> work, check out <a href="https://beccarobins.com" target="_blank">my portfolio</a>!
         </p>
       </article>
     </div>
