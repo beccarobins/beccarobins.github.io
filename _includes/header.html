@@ -1,4 +1,4 @@
-{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+<!-- {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
 {% if page.cover-img or page.title %}
 
@@ -16,7 +16,7 @@
     {% endfor %}
     {% endfor %}
   ></div>
-{% endif %}
+{% endif %} -->
 
 <header class="header-section {% if page.cover-img %}has-img{% endif %}">
 {% if page.cover-img %}
@@ -35,7 +35,7 @@
             {% endif %}
           {% endif %}
 
-<!--           {% if include.type == "post" %}
+           {% if include.type == "post" %}
             <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
             {% if page.last-updated %}
               <span class="post-meta">
@@ -46,7 +46,7 @@
             {% if page.readtime %}
               {% include readtime.html %}
             {% endif %}
-          {% endif %} -->
+          {% endif %}
         </div>
       </div>
     </div>
