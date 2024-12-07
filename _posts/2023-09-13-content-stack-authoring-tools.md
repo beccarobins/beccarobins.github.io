@@ -69,7 +69,7 @@ My blog is hosted on **Git**Hub, so every time I work on it, I use **git** comma
 <div>
 <img src="../images/mick-vs-code.jpg" alt="Becca's cat Mick supervising her authoring work in Visual Studio Code]" width="70%" height="70%" class="center">
 </div>
-<figcaption class="center"> Here, my cat Mick, is monitoring my post progress in Visual Studio Code.</figcaption>
+<figcaption class="center"> My cat, Mick, monitors my progress in Visual Studio Code, the tool I use to author these posts.</figcaption>
 
 In addition to git, IDEs let you use pretty much any coding language you can think of. Something I've more recently begun using (just for this blog) is Ruby, which GitHub Pages are based on. Using some very simple Ruby "gems", I can launch this website on a local server to test out how things are looking before pushing it live, essentially playing the part of a [staging environment][Coming soon].
 
