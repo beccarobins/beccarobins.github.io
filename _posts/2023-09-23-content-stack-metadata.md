@@ -49,7 +49,7 @@ Becca's cats =
 
 ## Okay, but why metadata?
 
- I'd be _shocked_ if you weren't already using metadata with your content, but are you using it to its fullest potential? Do you know its full potential?
+ I'd be _shocked_ if your site weren't already using metadata, but are you using it to its fullest potential? Do you know its full potential?
  
  AND if you're using it to it's fullest extent, it will probably changing frequently.
 
