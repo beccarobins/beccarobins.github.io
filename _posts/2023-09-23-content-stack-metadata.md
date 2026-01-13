@@ -67,12 +67,11 @@ Need to catch up? Check out [part 2: authoring tools](../content-stack-authoring
 
 [metadata]: https://www.techtarget.com/whatis/definition/metadata
 
-[What Is Metadata?
-Metadata is critically important for website and database management]: https://www.thoughtco.com/metadata-definition-and-examples-1019177
+[What Is Metadata? Metadata is critically important for website and database management]: https://www.thoughtco.com/metadata-definition-and-examples-1019177
 
-[]: https://dataedo.com/kb/data-glossary/what-is-metadata
+[What Is Metadata?]: https://dataedo.com/kb/data-glossary/what-is-metadata
 
-[]: https://www.cdw.com/content/cdw/en/articles/dataanalytics/how-the-modern-data-platform-fuels-success.html?cm_ven=acquirgy&cm_cat=bing&cm_pla=SLG+Analytics&cm_iteBundle+Modern+Data+Platform+Broad&s_kwcid=AL!4223!10!73392704939126!73392726583179&ef_id=229801ead6521294ae2164e2ecb518c4:G:s&msclkid=229801ead6521294ae2164e2ecb518c4
+[How the Modern Data Platform Fuels Success]: https://www.cdw.com/content/cdw/en/articles/dataanalytics/how-the-modern-data-platform-fuels-success.html?cm_ven=acquirgy&cm_cat=bing&cm_pla=SLG+Analytics&cm_iteBundle+Modern+Data+Platform+Broad&s_kwcid=AL!4223!10!73392704939126!73392726583179&ef_id=229801ead6521294ae2164e2ecb518c4:G:s&msclkid=229801ead6521294ae2164e2ecb518c4
 
 []: https://www.schoolofcontent.net/blog/metadata-content-strategy
 
