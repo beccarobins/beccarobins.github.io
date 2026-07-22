@@ -10,12 +10,15 @@
           {% endfor %}
         </div>
       {% endif %}
-      <p class="copyright text-muted">
+      <!-- <p class="copyright text-muted">
       {% if site.author %}
         {{ site.author }}
         &nbsp;&bull;&nbsp;
       {% endif %}
-      {{ site.time | date: '%Y' }}
+      {{ site.time | date: '%Y' }} -->
+      <div class="copyright">
+  &copy; {{ 'now' | date: "%Y" }} {{ site.author }} | All Rights Reserved
+</div>
 
       {% if site.url-pretty %}
         &nbsp;&bull;&nbsp;
