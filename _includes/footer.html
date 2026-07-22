@@ -10,11 +10,6 @@
           {% endfor %}
         </div>
       {% endif %}
-      <div class="copyright"> &copy; {{ 'now' | date: "%Y" }} {{ site.author }} | All Rights Reserved | 
-        <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a> | 
-        {% if site.edit_page_button and site.github.repository_url %} 
-        <a title="Edit this page on GitHub" href="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}/{{ page.path }}" class="text_muted">Edit page</a> {% endif%} 
-      </div>
 
       {% if site.matomo %}
         {% if site.matomo.opt-out %}
