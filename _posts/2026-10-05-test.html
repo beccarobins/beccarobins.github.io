@@ -13,7 +13,56 @@
     <main>
         <article>
             <h2>Project Management Institute PDUs</h2>
-            <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQB1jE0mmfAbCPX2Naw6ibs6nHEZpEECLkeLc-Zk5E9oiHJt6Za_EEG4qzkhLgFmFk1AmJ4TkfY1MEz/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+        <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Interactive Google Sheets Table</title>
+    <!-- Include jQuery and DataTables Styling/JS -->
+    <link rel="stylesheet" type="text/css" href="https://datatables.net">
+    <script src="https://jquery.com"></script>
+    <script type="text/javascript" src="https://datatables.net"></script>
+    <script src="https://cloudflare.com"></script>
+</head>
+<body>
+
+<table id="sheet-table" class="display" style="width:100%">
+    <!-- The table structure will be generated automatically -->
+</table>
+
+<script>
+// Replace this with your actual Google Sheets published CSV URL
+const csvUrl = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQB1jE0mmfAbCPX2Naw6ibs6nHEZpEECLkeLc-Zk5E9oiHJt6Za_EEG4qzkhLgFmFk1AmJ4TkfY1MEz/pub?gid=0&single=true&output=csv";
+
+$.ajax({
+    url: csvUrl,
+    dataType: "text",
+    success: function(data) {
+        // Parse CSV text into arrays
+        const parsedData = $.csv.toArrays(data);
+        
+        // Extract the first row as the table headers
+        const headers = parsedData.shift();
+        
+        // Format columns array for DataTables
+        const columns = headers.map(header => ({ title: header }));
+
+        // Initialize DataTables with automatic sorting, filtering, and pagination
+        $('#sheet-table').DataTable({
+            data: parsedData,
+            columns: columns,
+            responsive: true,
+            order: [[0, 'asc']] // Default sort by the first column
+        });
+    }
+});
+</script>
+
+</body>
+</html>
+
+        
+        
         </article>
     </main>
 </body>
